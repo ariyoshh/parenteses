@@ -25,7 +25,9 @@ class Desafio {
           st == ']' && top == '['){
             s.pop();
           }
-		  /*fuedab*/
+		  /*fuedab
+		  *analise
+		  */
           else{
             System.out.println(input_str + 
             " - Invalido");
